@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @GitHubnNoob
 - 👀 I’m interested data and data retreval
 - 🌱 I’m currently learning trial and error I have no experience 
